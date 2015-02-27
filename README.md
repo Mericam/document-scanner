@@ -3,3 +3,5 @@ your smartphone) and convert it to a flat document image, just as if you'd had u
 challenge is to automatically remove the perspective distortion and to crop it tightly. 
 
 To see how it works, execute runExamples.m
+
+Author: Tom Mertens, tom.mertens@gmail.com
